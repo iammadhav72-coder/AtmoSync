@@ -1,0 +1,1166 @@
+[
+    {
+        "city": "Delhi",
+        "temperature": 21,
+        "humidity": 83,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 28,
+        "humidity": 59,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 35,
+        "humidity": 62,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 22,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 31,
+        "humidity": 57,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 37,
+        "humidity": 55,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 85,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 33,
+        "humidity": 46,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 23,
+        "humidity": 54,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 35,
+        "humidity": 82,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 32,
+        "humidity": 44,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 37,
+        "humidity": 64,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 37,
+        "humidity": 55,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 22,
+        "humidity": 79,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 20,
+        "humidity": 52,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 31,
+        "humidity": 90,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 40,
+        "humidity": 69,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 36,
+        "humidity": 82,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 38,
+        "humidity": 70,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 28,
+        "humidity": 76,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 28,
+        "humidity": 44,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 32,
+        "humidity": 70,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 37,
+        "humidity": 85,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 22,
+        "humidity": 68,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 24,
+        "humidity": 48,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 35,
+        "humidity": 79,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 27,
+        "humidity": 51,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 21,
+        "humidity": 41,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 25,
+        "humidity": 82,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 35,
+        "humidity": 68,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 27,
+        "humidity": 53,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 37,
+        "humidity": 57,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 28,
+        "humidity": 84,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 25,
+        "humidity": 54,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 36,
+        "humidity": 83,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 35,
+        "humidity": 59,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 40,
+        "humidity": 90,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 65,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 34,
+        "humidity": 71,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 37,
+        "humidity": 40,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 45,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 38,
+        "humidity": 43,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 32,
+        "humidity": 62,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 35,
+        "humidity": 59,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 28,
+        "humidity": 50,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 39,
+        "humidity": 53,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 28,
+        "humidity": 89,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 35,
+        "humidity": 80,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 28,
+        "humidity": 60,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 29,
+        "humidity": 52,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 24,
+        "humidity": 77,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 29,
+        "humidity": 60,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 27,
+        "humidity": 63,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 33,
+        "humidity": 70,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 36,
+        "humidity": 45,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 36,
+        "humidity": 65,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 34,
+        "humidity": 58,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 33,
+        "humidity": 78,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 22,
+        "humidity": 70,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 40,
+        "humidity": 76,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 30,
+        "humidity": 56,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 21,
+        "humidity": 86,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 25,
+        "humidity": 55,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 20,
+        "humidity": 54,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 30,
+        "humidity": 47,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 25,
+        "humidity": 56,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 20,
+        "humidity": 80,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 39,
+        "humidity": 50,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 38,
+        "humidity": 76,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 37,
+        "humidity": 48,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 32,
+        "humidity": 72,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 23,
+        "humidity": 64,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 21,
+        "humidity": 74,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 22,
+        "humidity": 45,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 21,
+        "humidity": 41,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 36,
+        "humidity": 71,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 32,
+        "humidity": 73,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 30,
+        "humidity": 51,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 40,
+        "humidity": 61,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 24,
+        "humidity": 74,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 28,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 20,
+        "humidity": 54,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 28,
+        "humidity": 56,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34,
+        "humidity": 67,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 34,
+        "humidity": 47,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 27,
+        "humidity": 64,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 37,
+        "humidity": 73,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 35,
+        "humidity": 83,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 38,
+        "humidity": 79,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 40,
+        "humidity": 42,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 37,
+        "humidity": 88,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 25,
+        "humidity": 42,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 30,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 39,
+        "humidity": 64,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 25,
+        "humidity": 57,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 38,
+        "humidity": 49,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 35,
+        "humidity": 56,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 27,
+        "humidity": 88,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 38,
+        "humidity": 43,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 23,
+        "humidity": 51,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 26,
+        "humidity": 49,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 29,
+        "humidity": 64,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 39,
+        "humidity": 80,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 22,
+        "humidity": 65,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 39,
+        "humidity": 87,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 36,
+        "humidity": 64,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 28,
+        "humidity": 82,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 20,
+        "humidity": 43,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 20,
+        "humidity": 79,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 30,
+        "humidity": 89,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34,
+        "humidity": 46,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 21,
+        "humidity": 59,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34,
+        "humidity": 85,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 20,
+        "humidity": 47,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 36,
+        "humidity": 54,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 22,
+        "humidity": 56,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 24,
+        "humidity": 50,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 23,
+        "humidity": 83,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 32,
+        "humidity": 69,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 31,
+        "humidity": 46,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 29,
+        "humidity": 55,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 30,
+        "humidity": 89,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 37,
+        "humidity": 70,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 25,
+        "humidity": 70,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 24,
+        "humidity": 88,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 25,
+        "humidity": 40,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 33,
+        "humidity": 77,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 30,
+        "humidity": 65,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 20,
+        "humidity": 64,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 27,
+        "humidity": 50,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 31,
+        "humidity": 68,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 22,
+        "humidity": 49,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 27,
+        "humidity": 74,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 31,
+        "humidity": 44,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 31,
+        "humidity": 43,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 26,
+        "humidity": 45,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 36,
+        "humidity": 62,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 35,
+        "humidity": 68,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 38,
+        "humidity": 45,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 40,
+        "humidity": 81,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 26,
+        "humidity": 42,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 22,
+        "humidity": 65,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 36,
+        "humidity": 73,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 21,
+        "humidity": 60,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 28,
+        "humidity": 47,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 29,
+        "humidity": 46,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 37,
+        "humidity": 71,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 39,
+        "humidity": 84,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 29,
+        "humidity": 49,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 35,
+        "humidity": 73,
+        "status": "Hot"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 26,
+        "humidity": 81,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 34,
+        "humidity": 58,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 20,
+        "humidity": 69,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 23,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 34,
+        "humidity": 79,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 37,
+        "humidity": 41,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 39,
+        "humidity": 90,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 34,
+        "humidity": 63,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 71,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 25,
+        "humidity": 83,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 25,
+        "humidity": 82,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 26,
+        "humidity": 46,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 39,
+        "humidity": 53,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 36,
+        "humidity": 61,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 33,
+        "humidity": 66,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 35,
+        "humidity": 84,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34,
+        "humidity": 76,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 33,
+        "humidity": 53,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 21,
+        "humidity": 86,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 40,
+        "humidity": 72,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 25,
+        "humidity": 43,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 29,
+        "humidity": 61,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 48,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 38,
+        "humidity": 90,
+        "status": "Hot"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 27,
+        "humidity": 66,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 38,
+        "humidity": 87,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 39,
+        "humidity": 74,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 22,
+        "humidity": 72,
+        "status": "Normal"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 38,
+        "humidity": 78,
+        "status": "Hot"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 31,
+        "humidity": 82,
+        "status": "Hot"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 21,
+        "humidity": 42,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 22,
+        "humidity": 59,
+        "status": "Normal"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 30,
+        "humidity": 85,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 24,
+        "humidity": 48,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 26,
+        "humidity": 64,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 28,
+        "humidity": 43,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34,
+        "humidity": 48,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 24,
+        "humidity": 84,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 35,
+        "humidity": 57,
+        "status": "Hot"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 21,
+        "humidity": 77,
+        "status": "Normal"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 21,
+        "humidity": 74,
+        "status": "Normal"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": 25,
+        "humidity": 78,
+        "status": "Normal"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 21,
+        "humidity": 79,
+        "status": "Normal"
+    }
+]

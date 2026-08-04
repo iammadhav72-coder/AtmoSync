@@ -1,33 +1,34 @@
 import sqlite3
-import json
+import pandas as pd
 
-conn = sqlite3.connect("weather.db")
+# Connect to SQLite database
+conn = sqlite3.connect("sql/weather.db")
 cursor = conn.cursor()
 
+# Drop old table if it exists
+cursor.execute("DROP TABLE IF EXISTS weather")
+
+# Create new weather table
 cursor.execute("""
-CREATE TABLE IF NOT EXISTS weather (
+CREATE TABLE weather (
+    datetime TEXT,
     city TEXT,
     temperature INTEGER,
     humidity INTEGER,
+    pressure INTEGER,
+    wind_speed REAL,
+    rainfall REAL,
+    aqi INTEGER,
     status TEXT
 )
 """)
 
-with open("../data/raw/processed/processed_weather.json", "r") as f:
-    data = json.load(f)
+# Read CSV file
+df = pd.read_csv("data/raw/weather_data.csv")
 
-for row in data:
-    cursor.execute("""
-    INSERT INTO weather VALUES (?, ?, ?, ?)
-    """, (
-        row["city"],
-        row["temperature"],
-        row["humidity"],
-        row["status"]
-    ))
-
+# Insert data into SQLite
+df.to_sql("weather", conn, if_exists="append", index=False)
 conn.commit()
-
-print("Data inserted successfully!")
-
 conn.close()
+
+print("✅ 3000 weather records inserted successfully into SQLite!")

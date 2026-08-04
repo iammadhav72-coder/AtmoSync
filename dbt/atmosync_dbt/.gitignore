@@ -3,3 +3,15 @@ target/
 dbt_packages/
 logs/
 .env
+# Virtual environment
+.venv/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
